@@ -16,6 +16,7 @@ Notes about the hack:
 * Finally, evolving some very strong pokemon-- pseudo-legendaries and other dragon types-- requires you to level up holding a particular held item (such as a Rocky Helmet for Tyranitar, or a Choice Band for Garchomp), which will be consumed upon evolution.
 * Some TM's have been changed. See the TM's tab of the documentation. All TM's should be available before the end of the game, without requiring Mirage spots.
 * Some moves have also been changed. The Moves tab of the document summarizes the rationale behind the different move changes.
+* All moves with more than 15 PP have had their PP reduced to 15. This is to make PP stalling easier.
 * I am super open to feedback! You can reach me on Twitch [here](twitch.tv/something_smart_) or message me on Discord at Something_Smart#8109. That said-- this hack's target difficulty is relatively low, so if you feel the hack is too easy across the board, you probably aren't the target audience.
 
 To play the hack in Citra: After opening Citra, right-click on Alpha Sapphire and select "Open Mods Location". This should bring up a folder; copy the romfs folder and code.bin file into this folder (if there's anything there already, delete it first). That's it, you should be good to go.
