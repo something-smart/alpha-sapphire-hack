@@ -21,4 +21,4 @@ Notes about the hack:
 
 To play the hack in Citra: After opening Citra, right-click on Alpha Sapphire and select "Open Mods Location". This should bring up a folder; copy the romfs folder and code.bin file into this folder (if there's anything there already, delete it first). That's it, you should be good to go.
 
-If you wish to play a blind nuzlocke, the level caps are: Roxanne - 14, Brawly - 17, Wattson - 22, Flannery - 28, Norman - 30, Winona - 35, Liza & Tate - 43, Wallace - 49, Elite Four - 55, Champion - 57.
+If you wish to play a blind nuzlocke, the level caps are: Roxanne - 14, Brawly - 17, Wattson - 22, Flannery - 28, Norman - 30, Winona - 35, Liza & Tate - 43, Wallace - 49, Elite Four - 56, Champion - 58.
