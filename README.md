@@ -11,7 +11,7 @@ Notes about the hack:
 * Base stats have been changed. With a few exceptions, all stats were normalized 1/3 of the way toward 500 BST, essentially meaning that lower-BST pokemon got a uniform buff to their stats, and higher-BST pokemon got a uniform nerf. Some pokemon have also gotten custom changes to their base stats.
 * Mega evolutions now have the same BST as the base form, but distributed differently. Vanilla mega evolutions are fun but very centralizing. This makes them more of a side-grade, so to speak, and they must be used strategically.
 * Some evolution methods have been changed. Friendship evolutions have been removed and replaced with level evolutions. Some very high level evolution pokemon have had their evolution level reduced (the final level cap for the champion is only 58). Trade and time-based restrictions have also been eliminated.
-* Additionally, the Dawn, Dusk, and Shiny Stones serve a special purpose-- these stones are limited in quantity, as opposed to the other evolution stones which are purchasable. They are used to evolve some of the more powerful pokemon. Many pokemon that required a stone or item to evolve have changed what stone/item evolves them.
+* Additionally, the Dawn, Dusk, and Shiny Stones serve a special purpose-- these stones are limited in quantity, as opposed to the other evolution stones which are purchasable early. (Dusk Stones are purchasable at the Department Store, the others not at all.) They are used to evolve some of the more powerful pokemon. Many pokemon that required a stone or item to evolve have changed what stone/item evolves them.
 * Finally, evolving some very strong pokemon-- pseudo-legendaries and other dragon types-- requires you to level up holding a particular held item (such as a Rocky Helmet for Tyranitar, or a Choice Band for Garchomp), which will be consumed upon evolution.
 * Legendaries have not received much change; you are not intended to use them, and no enemy trainers will have them.
 * Some TM's have been changed. See the TM's tab of the documentation. All TM's should be available before the end of the game.
@@ -20,6 +20,8 @@ Notes about the hack:
 * All moves with more than 15 PP have had their PP reduced to 15. This is to make PP stalling easier.
 * Ignore the random numbers in some of the docs. They are for administrative use only.
 * I am super open to feedback! You can reach me on Twitch [here](https://twitch.tv/something_smart_) or message me on Discord at something_smart. That said-- this hack's target difficulty is relatively low, so if you feel the hack is too easy across the board, you probably aren't the target audience.
+
+To download the hack: Click on "Something_Smart's Hack vX.Y.zip", click "download raw file", and unzip with your program of choice.
 
 To play the hack in Citra: After opening Citra, right-click on Alpha Sapphire and select "Open Mods Location". This should bring up a folder; copy the romfs folder and code.bin file into this folder (if there's anything there already, delete it first). That's it, you should be good to go.
 
