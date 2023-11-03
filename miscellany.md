@@ -10,6 +10,7 @@ Miscellaneous info/clarifications:
 * Items not explicitly listed are chosen arbitrarily from a list of consumable items. This includes hidden items. TMs and mega stones are unchanged.
 * Trainers not listed in the trainer document are completely unchanged, except for having their vision reduced to zero. All changed trainers (except Phoebe) have the strongest AI.
 * All moves have a maximum PP of no more than 15. All other move changes are documented in the Moves tab.
+* You should not need to use Mirage spots to get any items, they are unchanged and I recommend not using them. However, you may get an encounter in the sky; these encounters have had their level changed to 22, and Braviary/Pelipper replaced with Rufflet/Vullaby.
 * Items available in basic marts: Rare Candy (always); Poke Ball, Full Restore (after pokedex); Great Ball, Max Elixir, Pecha Berry, Cheri Berry, Chesto Berry, Rawst Berry, Max Repel (after gym 1); Aspear Berry, Persim Berry, Sitrus Berry, Escape Rope (after gym 2); Ultra Ball, Lum Berry, Heart Scale (after gym 3); Quick Ball (after gym 4); Focus Sash (after gym 5); Jaboca Berry, Rowap Berry, Enigma Berry (after gym 8)
 * Items available in special marts:
   * Slateport Incense Stand: Fire Stone, Thunder Stone, Water Stone, Leaf Stone, Moon Stone, Sun Stone, TM11 Sunny Day, TM18 Rain Dance, TM37 Sandstorm
