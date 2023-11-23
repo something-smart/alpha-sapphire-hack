@@ -22,7 +22,7 @@ Miscellaneous info/clarifications:
   * Lavaridge Herb Shop: Absorb Bulb, Cell Battery, Luminous Moss, Snowball
   * Department Store 2F Left: King's Rock, Razor Claw, Dusk Stone
   * Department Store 3F Left: Figy Berry, Wiki Berry, Mago Berry, Aguav Berry, Iapapa Berry, Micle Berry
-  * Department Store 3F Right: TM53 Energy Ball, TM66 Drain Punch, TM74 Stealth Rock, TM84 Poison Jab, TM79 Skill Swap, TM90 Substitute, TM91 Flash Cannon, TM95 Snarl
+  * Department Store 3F Right: TM21 Iron Head, TM66 Drain Punch, TM74 Stealth Rock, TM84 Poison Jab, TM79 Skill Swap, TM90 Substitute, TM91 Flash Cannon, TM95 Snarl
 * The Macho Brace will cause any pokemon that evolves by level to instantly evolve when leveling up while holding it. (It is consumed.)
 * The gift Wynaut egg in Lavaridge has been changed to an Eevee holding a Focus Sash.
 * The gift Latias has been changed to an Unown holding a Normal Gem.
