@@ -1,3 +1,54 @@
+## 1.0.3
+Bug fixes:
+* Cosplay Pikachu now works properly.
+* Eagle Eye, instead of replacing Detect where it was bugged, replaces Power Trick. Power Trick has been replaced in the movesets where it appeared.
+
+Overworld changes:
+* Move Reminders and Deleters have been placed in every pokemon center.
+* Levels of horde encounters have been lowered.
+* Route 114 All Water: Totodile (5%) -> Tympole
+* Babiri Berry in Rusturf Tunnel -> Heart Scale
+* Ability Capsule in Mauville City -> Acro Bike
+* Added 2x Heart Scale and Honey in Trick House. Added Sally and Cora in Trick House.
+* All three in-game trades have been changed: Rustboro: Anything for Sandshrew; Fortree: Anything for Ampharos; Pacifidlog: Anything for Trubbish
+
+Move changes:
+* Leaf Tornado -> 100 acc (oops)
+
+Stat changes:
+* Dragonite: Protean -> Shed Skin
+* Azumarill: Attack 53 -> 45, Defense 85 -> 70, Sp. Atk 63 -> 88
+* Sneasel: HP 57 -> 72
+* Gligar: HP 68 -> 78, Attack 79 -> 84
+* Clawitzer: Water -> Water/Fighting
+
+Learnset changes:
+* Chatot gets moves much sooner.
+* Sandshrew/Sandslash lost Gyro Ball, Swords Dance, and gained Amnesia and Spiky Shield. Gained Thunder Punch and Ice Punch TMs
+* Pidgey/Pidgeotto/Pidgeot lost Wing Attack, gained Hyper Voice, Bug Buzz, and gets moves sooner. Pidgeot gained Heat Wave
+* Gourgeist lost a duplicate Trick-or-Treat and gained Natural Gift
+* Azumarill gained Dazzling Gleam
+* Clawitzer lost Smack Down, gained Close Combat, plus Brick Break, Low Sweep, Aura Sphere TMs. Also gets moves earlier
+
+Trainer changes:
+* Tessa: Croagunk lv16 -> 17
+* Graeme: Golett lv16 -> 15, Venomoth lv17 -> 16
+* Isabel: Added Stantler
+* Amy & Liv: Marill -> Azumarill
+* Dylan: Diglett -> Dugtrio
+* Lydia: Marill -> Azumarill
+* Jaylin: Grimer -> Muk
+* Neal: Added Baltoy
+* Steve: Graveler x3 -> Golem x3
+* Meteor Falls Shelly: Added Shelgon, Shellder: Never-Melt Ice -> Assault Vest, Water Pulse -> Scald, Withdraw -> Bullet Seed, Shelmet: Metal Claw -> Iron Head
+* Meteor Falls Voltaire: Golbat -> Crobat
+* Mt. Chimney Archie: Added Cofagrigus, Delcatty: Roar -> Judgment, Sharpedo: Scope Lens -> Sharpedonite
+* Flannery: Lampent -> Chandelure
+* Norman: Unown: Choice Scarf -> Focus Sash; Slaking: Body Slam -> Play Rough, Feint -> Encore; Smeargle -> Pidgeot
+* Naomi (both fights): Dragonite: Protean -> Shed Skin. In hideout: Glalie: Extreme Speed -> Facade
+* Aqua Hideout Horde Grunts: Mr. Mime: Lost Mist Ball, Fairy Wind, Taunt
+* Aqua Hideout Matt: Tentacruel -> Aromatisse
+
 ## 1.0.2
 
 Bug fixes:
