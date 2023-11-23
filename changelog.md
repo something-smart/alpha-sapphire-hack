@@ -8,6 +8,7 @@ Overworld changes:
 * Levels of horde encounters have been lowered.
 * Route 114 All Water: Totodile (5%) -> Tympole
 * Babiri Berry in Rusturf Tunnel -> Heart Scale
+* Big Root on Route 110 -> Ability Capsule
 * Ability Capsule in Mauville City -> Acro Bike
 * Added 2x Heart Scale and Honey in Trick House. Added Sally and Cora in Trick House.
 * All three in-game trades have been changed: Rustboro: Anything for Sandshrew; Fortree: Anything for Ampharos; Pacifidlog: Anything for Trubbish
